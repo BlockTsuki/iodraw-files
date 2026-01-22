@@ -530,8 +530,7 @@
         <mxCell id="z6FR2NbB0rwxErwAA7-L-124" value="" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;exitX=0.288;exitY=0.945;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="z6FR2NbB0rwxErwAA7-L-68" target="z6FR2NbB0rwxErwAA7-L-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="580" />
-              <mxPoint x="340" y="610" />
+              <mxPoint x="370" y="580" />
             </Array>
             <mxPoint x="390" y="550" as="sourcePoint" />
             <mxPoint x="350" y="666" as="targetPoint" />
