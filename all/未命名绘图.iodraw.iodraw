@@ -510,10 +510,10 @@
             <mxPoint x="456" y="209" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6FR2NbB0rwxErwAA7-L-115" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" target="z6FR2NbB0rwxErwAA7-L-72">
+        <mxCell id="z6FR2NbB0rwxErwAA7-L-115" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;entryX=0.1;entryY=0;rounded=0;exitX=0.705;exitY=1.091;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="z6FR2NbB0rwxErwAA7-L-68" target="z6FR2NbB0rwxErwAA7-L-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="425" y="598" />
+              <mxPoint x="450" y="598" />
             </Array>
             <mxPoint x="425" y="551" as="sourcePoint" />
           </mxGeometry>
