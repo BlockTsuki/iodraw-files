@@ -19,6 +19,15 @@
         <mxCell id="P-E3gg3IEwJBATx-9k5a-5" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;系统首页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="260" width="40" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="zBZj3V1GDbOoA4OUqfuS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-E3gg3IEwJBATx-9k5a-6" target="T0-KTsg_QOT0Kzx6dnLx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBZj3V1GDbOoA4OUqfuS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-E3gg3IEwJBATx-9k5a-6" target="T0-KTsg_QOT0Kzx6dnLx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBZj3V1GDbOoA4OUqfuS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-E3gg3IEwJBATx-9k5a-6" target="T0-KTsg_QOT0Kzx6dnLx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-6" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;信息发布&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="260" width="40" height="100" as="geometry" />
         </mxCell>
