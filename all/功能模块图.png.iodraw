@@ -17,7 +17,7 @@
           <mxGeometry x="100" y="260" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-5" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;系统首页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="260" width="40" height="100" as="geometry" />
+          <mxGeometry x="200" y="260" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zBZj3V1GDbOoA4OUqfuS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-E3gg3IEwJBATx-9k5a-6" target="T0-KTsg_QOT0Kzx6dnLx-3">
           <mxGeometry relative="1" as="geometry" />
@@ -175,15 +175,6 @@
         </mxCell>
         <mxCell id="zBZj3V1GDbOoA4OUqfuS-9" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;提交认领申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zBZj3V1GDbOoA4OUqfuS-10" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;信息发布&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zBZj3V1GDbOoA4OUqfuS-11" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;失物招领&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="zBZj3V1GDbOoA4OUqfuS-12" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;寻物发布&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="410" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
