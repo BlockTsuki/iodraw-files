@@ -16,22 +16,6 @@
         <mxCell id="P-E3gg3IEwJBATx-9k5a-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;登录注册&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="260" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="T0-KTsg_QOT0Kzx6dnLx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P-E3gg3IEwJBATx-9k5a-5" target="T0-KTsg_QOT0Kzx6dnLx-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="390" />
-              <mxPoint x="240" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T0-KTsg_QOT0Kzx6dnLx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P-E3gg3IEwJBATx-9k5a-5" target="T0-KTsg_QOT0Kzx6dnLx-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="390" />
-              <mxPoint x="340" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-5" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;系统首页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="260" width="40" height="100" as="geometry" />
         </mxCell>
