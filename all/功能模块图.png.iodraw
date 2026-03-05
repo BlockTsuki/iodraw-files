@@ -80,7 +80,7 @@
             <mxPoint x="440" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="240" />
-              <mxPoint x="440" y="240" />
+              <mxPoint x="430" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,7 +102,6 @@
             <Array as="points">
               <mxPoint x="340" y="240" />
               <mxPoint x="370" y="240" />
-              <mxPoint x="380" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -160,6 +159,12 @@
         </mxCell>
         <mxCell id="zBZj3V1GDbOoA4OUqfuS-1" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;通知中心&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="260" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zBZj3V1GDbOoA4OUqfuS-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="270" as="sourcePoint" />
+            <mxPoint x="460" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
