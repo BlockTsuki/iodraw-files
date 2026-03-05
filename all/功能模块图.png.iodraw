@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="xTPMQm2GxNlq1RviHv0H">
-    <mxGraphModel dx="1152" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="549" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="570" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;登录注册&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="260" width="40" height="100" as="geometry" />
+          <mxGeometry x="180" y="260" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="T0-KTsg_QOT0Kzx6dnLx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P-E3gg3IEwJBATx-9k5a-5" target="T0-KTsg_QOT0Kzx6dnLx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-5" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;系统首页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="260" width="40" height="100" as="geometry" />
+          <mxGeometry x="240" y="260" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-6" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;信息发布&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="40" height="100" as="geometry" />
@@ -41,7 +41,7 @@
         <mxCell id="P-E3gg3IEwJBATx-9k5a-8" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;认领交互&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="260" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P-E3gg3IEwJBATx-9k5a-9" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;消息推送&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P-E3gg3IEwJBATx-9k5a-9" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;个人中心&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="260" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P-E3gg3IEwJBATx-9k5a-10" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;公告信息管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
